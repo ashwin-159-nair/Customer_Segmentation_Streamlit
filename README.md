@@ -33,3 +33,23 @@ The K-Means model identified 6 distinct customer segments based on standardized 
 | **5** | **Extreme Outlier** | Single data point with anomalous income; excluded from strategic use. |
 
 ---
+
+## How to Run the Application
+
+To run the interactive Streamlit application on your local machine:
+
+1. Set up the Environment
+
+First, install the required libraries using the provided requirements.txt file
+
+pip install -r requirements.txt
+
+
+
+2. Launch the Streamlit App
+
+Navigate to the project directory in your terminal and execute the Streamlit command :
+
+streamlit run segmentation.py
+
+The app will open automatically in your web browser.
