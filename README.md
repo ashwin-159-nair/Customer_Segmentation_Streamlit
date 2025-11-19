@@ -53,3 +53,13 @@ Navigate to the project directory in your terminal and execute the Streamlit com
 streamlit run segmentation.py
 
 The app will open automatically in your web browser.
+
+## DEMO RESULTS
+
+
+<img width="500" height="500" alt="Cust1" src="https://github.com/user-attachments/assets/09fa162f-6da3-41e6-99b0-d36202656113" />
+
+
+
+<img width="500" height="500" alt="Cust1 2" src="https://github.com/user-attachments/assets/c5d78fc7-c8d2-4ab7-9828-aea891386a8c" />
+
